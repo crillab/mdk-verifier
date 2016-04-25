@@ -1,0 +1,10 @@
+documentation:
+  script: 
+    - doxygen
+  artifacts:
+     paths:
+      - doc/html/*
+      - doc/customdoxygen.css
+      - doc/doxy-boot.js
+      - doc/footer.html
+      - doc/header.html

@@ -1,0 +1,1 @@
+![Algo of checker](algo.png "Algorithm")
