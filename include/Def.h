@@ -14,8 +14,11 @@
 * You should have received a copy of the GNU General Public License along with MDK-Verifier. 
 * If not, see http://www.gnu.org/licenses/.
 *
-* Contributors:
-*   - Valentin Montmirail (valentin.montmirail@cril.fr)
+# Contributors:
+#   - Jean Marie Lagniez  (lagniez@cril.fr)
+#   - Daniel Le Berre     (leberre@cril.fr)
+#     - Tiago de Lima     (delima@cril.fr)
+#   - Valentin Montmirail (montmirail@cril.fr)
 ***************************************************************************************************/
 
 #ifndef DEFINITIONS_H_INCLUDED

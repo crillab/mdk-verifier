@@ -15,7 +15,10 @@
 # If not, see http://www.gnu.org/licenses/.
 #
 # Contributors:
-#   - Valentin Montmirail (valentin.montmirail@cril.fr)
+#   - Jean Marie Lagniez  (lagniez@cril.fr)
+#   - Daniel Le Berre     (leberre@cril.fr)
+#     - Tiago de Lima     (delima@cril.fr)
+#   - Valentin Montmirail (montmirail@cril.fr)
 #**************************************************************************************************/
 
 %{   
