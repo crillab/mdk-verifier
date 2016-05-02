@@ -1,0 +1,8 @@
+The code has been tested : 
+
+ * Ubuntu 14.04.3 LTS
+ * Mac OS X 10.10.5
+ 
+To install :
+
+    make
